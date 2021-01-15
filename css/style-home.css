@@ -341,7 +341,7 @@ p{
 .div-tst{
   margin-top: -55%;
   margin-left: 1%;
-  height: 95vh;
+  height: 90vh;
 }
 
 .home-img{
@@ -349,13 +349,7 @@ p{
  width: 100%;
 }
 .div-background{
-position: absolute;
-  color:white;
-  font-size: 3.5vw;
-  
-  
- 
-  
+  font-size: 50px;
   line-height:40px;
   width: 70%;
   top:400px;
@@ -367,21 +361,16 @@ position: absolute;
 }
 .home-img-2{
   margin-left: 1%;
+  height: 35vh;
 }
 .div-6{
   margin-left: 1%;
+  height: 100vh;
 }
 .div-5{
   width: 50%;
   margin-left: 25%;
 
 }
-.item{
-  font-size: 18px;
-  width: 100%;
-  margin-left: -4%;
-}
-.center{
-  margin-top: 5%;
-}
+
 }
